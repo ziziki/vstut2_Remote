@@ -8,5 +8,14 @@ int main()
 
     //A
     int a = 0;
+
+    //B
+    int b = 0;
+
+    //C
+    int c = 0;
+
+    //D
+    int d = 0;
 }
 
