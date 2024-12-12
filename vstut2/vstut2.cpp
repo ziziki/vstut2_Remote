@@ -9,7 +9,8 @@ int main()
     //A
     int a = 0;
 
-
+    //B
+    int b = 0;
 
 }
 
