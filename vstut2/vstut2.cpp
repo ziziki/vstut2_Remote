@@ -12,5 +12,7 @@ int main()
     //B
     int b = 0;
 
+    //C
+    int c = 0;
 }
 
