@@ -14,5 +14,8 @@ int main()
 
     //C
     int c = 0;
+
+    //D
+    int d = 0;
 }
 
