@@ -17,5 +17,8 @@ int main()
 
     //D
     int d = 0;
+
+    //E
+    int e = 0;
 }
 
